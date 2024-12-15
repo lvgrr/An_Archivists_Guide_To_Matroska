@@ -1,6 +1,6 @@
 # Matroska Metadata
 
-Matroska tagging documentation is available at [matroska.org](https://matroska.org/technical/specs/tagging/index.html).
+Matroska tagging documentation is available at [matroska.org](https://www.matroska.org/technical/tagging.html).
 
 ## Adding tags with FFmpeg
 
@@ -152,4 +152,4 @@ mkvpropedit chapters_test.mkv --edit track:v1 --set display-width=4 --set displa
 
 ```
 
-See Matroska's [tagging example pages](https://matroska.org/technical/tagging-video-example.html) for ideas.
+See Matroska's [tagging example pages](https://www.matroska.org/technical/tagging-video-example.html) for ideas.
